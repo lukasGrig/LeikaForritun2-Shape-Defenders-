@@ -1,8 +1,12 @@
-# LeikaForritun2-Shape-Defenders-
+# LeikaForritun2-Shape-Defenders
 
 # Description
 
 This is a 2D tower defense game i made for Tækniskóli Háteigsvegur, Your objective is to protect your home from enemy shapes that wants you to do their homework on your day off. You have tons off towers on your side, like for example: Basic Tower, Lightning Tower, Bomb Tower and etc. But there are powerful enemies that were too lazy to do their homework like for example: Speedster, Brute, Gunner, Commander and etc.
+
+# Game
+
+[Link](https://play.unity.com/en/games/9d451788-61c6-4756-a4ad-540126f2b00e/shape-defenders) to playing the game with WebGL
 
 # Code
 
