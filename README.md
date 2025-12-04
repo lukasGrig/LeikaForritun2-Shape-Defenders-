@@ -8,6 +8,26 @@ This is a 2D tower defense game i made for Tækniskóli Háteigsvegur, Your obje
 
 [Link](https://play.unity.com/en/games/9d451788-61c6-4756-a4ad-540126f2b00e/shape-defenders) to playing the game with WebGL
 
+# Controls
+
+[1-7] - Tower placements
+- 1: Basic Tower
+- 2: Cannon Tower
+- 3: Bomb Tower
+- 4: Sniper Tower
+- 5: Music Tower
+- 6: Ice Tower
+- 7: Lightning Tower
+
+
+E: Upgrade selected tower
+
+X: Sell selected tower
+
+Z: Change targetting for selected tower
+
+B or Escape: Cancel placement
+
 # Code
 
 [Link](https://github.com/lukasGrig/LeikaForritun2-Shape-Defenders-/blob/main/Code.md) to the code of the game.
@@ -30,7 +50,7 @@ Video of the gameplay: https://youtu.be/yGqbeIfVmSM
 
 # Credits
 
-Developer: Lukas Grigaliunas
-School: Tækniskóli Háteigsvegur
-Class: FORR3FL05EU-Hát
+- Developer: Lukas Grigaliunas
+- School: Tækniskóli Háteigsvegur
+- Class: FORR3FL05EU-Hát
 
